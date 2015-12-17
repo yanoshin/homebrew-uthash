@@ -1,4 +1,4 @@
-require ‘formula’
+require 'formula'
 
 class Uthash < Formula
 	homepage 'https://github.com/yanoshin/uthash';
